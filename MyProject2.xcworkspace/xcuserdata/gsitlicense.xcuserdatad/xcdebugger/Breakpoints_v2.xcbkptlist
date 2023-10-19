@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1428FFA6-0274-4156-89D0-942FD2E6A445"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F1360EF-C8F1-4684-BC2B-F432CC72B406"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2F1360EF-C8F1-4684-BC2B-F432CC72B406 - 936fb290f1da13bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MyProject2.ViewController.getEmployee() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "2F1360EF-C8F1-4684-BC2B-F432CC72B406 - 936fb290f1da1342"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MyProject2.ViewController.getEmployee() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4898ED0-9B67-4CAB-B1C0-B74A70DC2446"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1886A47-15CE-4749-A270-BC262CD20A3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C1886A47-15CE-4749-A270-BC262CD20A3B - 936fb290f1da13de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MyProject2.ViewController.getEmployee() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1600">
+               </Location>
+               <Location
+                  uuid = "C1886A47-15CE-4749-A270-BC262CD20A3B - 6aada7b8e9769f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MyProject2.ViewController.getEmployee() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "C1886A47-15CE-4749-A270-BC262CD20A3B - 936fb290f1da13ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MyProject2.ViewController.getEmployee() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1600">
+               </Location>
+               <Location
+                  uuid = "C1886A47-15CE-4749-A270-BC262CD20A3B - 6aada7b8e9769d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in MyProject2.ViewController.getEmployee() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEE4672B-4F42-4AEA-9BF9-2227C112F967"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AEE4672B-4F42-4AEA-9BF9-2227C112F967 - 525c82753689bea5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.tableView(_: __C.UITableView, commit: __C.UITableViewCellEditingStyle, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "AEE4672B-4F42-4AEA-9BF9-2227C112F967 - 525c82753689be84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.tableView(_: __C.UITableView, commit: __C.UITableViewCellEditingStyle, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B695CBB-EE2C-4672-A54A-6DC0872F3BFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2930FC3-035A-4A29-87C9-C4E822261D2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0691F57C-9424-4EC7-948D-835116A48D78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28162C40-7109-413A-968E-526B40E413EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCBDCA91-45A3-4A4E-A326-5877E0B0EE6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "264"
+            endingLineNumber = "264"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3733E19B-550F-4B5D-A085-DF67EB38323B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "3733E19B-550F-4B5D-A085-DF67EB38323B - 429d211d678434d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "980">
+               </Location>
+               <Location
+                  uuid = "3733E19B-550F-4B5D-A085-DF67EB38323B - 429d211d678434f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "3733E19B-550F-4B5D-A085-DF67EB38323B - 429d211d678434f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CBB07F7-E3B7-4F21-AA8F-1999FD475262"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "7CBB07F7-E3B7-4F21-AA8F-1999FD475262 - 429d211d67843411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "7CBB07F7-E3B7-4F21-AA8F-1999FD475262 - 429d211d6784346f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C87FBA07-EB58-4424-971B-50B2F87A667B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "271"
+            endingLineNumber = "271"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "C87FBA07-EB58-4424-971B-50B2F87A667B - 429d211d678434b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "C87FBA07-EB58-4424-971B-50B2F87A667B - 429d211d678434b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "C87FBA07-EB58-4424-971B-50B2F87A667B - 429d211d678434b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.delete(id: Swift.Int) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB49F5EA-5D5C-4359-98F0-0E398BFDD422"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFD1E728-C138-4482-A097-BD8153868A28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "CFD1E728-C138-4482-A097-BD8153868A28 - 28e18d78b523bb5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.update(id: Swift.Int, name: Swift.String) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "CFD1E728-C138-4482-A097-BD8153868A28 - 28e18d78b523bb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.update(id: Swift.Int, name: Swift.String) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B3BEEED-2502-43B4-B87F-0B083E024EE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "9B3BEEED-2502-43B4-B87F-0B083E024EE4 - 28e18d78b523ba98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.update(id: Swift.Int, name: Swift.String) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "9B3BEEED-2502-43B4-B87F-0B083E024EE4 - 28e18d78b523bab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.LocalStorageViewController.update(id: Swift.Int, name: Swift.String) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/MyProject2/LocalStorageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3935E9C5-76F7-42B3-8382-1370A7C07923"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "701F6238-5E66-476F-9A3A-D10797176318"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A3E62E8-58C7-45C0-B5F7-F572A6E9BC11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C6FB1B8-6003-4BD6-BE93-4DB006E980AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0044A8B5-82E6-4183-B416-26F34D023E18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6278115-EEDE-4E80-B9F4-D57ADBC9AA23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "295"
+            endingLineNumber = "295"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0B48E14-E81C-4EA7-B05D-F4EA5B3A5355"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "297"
+            endingLineNumber = "297"
+            landmarkName = "LocalStorageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89E746E6-FC82-42B5-A022-367DC7A13A1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B67F41DB-22EE-4266-AE4E-F16AC4BB0E37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5111BC33-EB51-4770-BD52-0707F0405856"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47DAE29F-8D38-4FFD-BBD3-F0A31338719F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProject2/LocalStorageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFDC1B3F-61C8-464D-9360-52294B4ED149"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewModel/UserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFDC1B3F-61C8-464D-9360-52294B4ED149 - 336bcd638ff3b4fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; () in MyProject2.UserViewModel.fetchData() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "BFDC1B3F-61C8-464D-9360-52294B4ED149 - 336bcd638ff3b4fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; () in MyProject2.UserViewModel.fetchData() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD08A809-4519-4BCE-9648-5689D54D83DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewModel/UserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD08A809-4519-4BCE-9648-5689D54D83DE - 336bcd638ff3b424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; () in MyProject2.UserViewModel.fetchData() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "FD08A809-4519-4BCE-9648-5689D54D83DE - e31197cf29bfa4e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyProject2.UserViewModel.fetchData() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "FD08A809-4519-4BCE-9648-5689D54D83DE - 336bcd638ff3b424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; () in MyProject2.UserViewModel.fetchData() -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F120590-E7EA-4DE5-BF4C-56870731D18C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalStorage/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "read(onSucess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F120590-E7EA-4DE5-BF4C-56870731D18C - f25a5775e000546f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; Swift.Array&lt;MyProject2.UserModel&gt;"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "4F120590-E7EA-4DE5-BF4C-56870731D18C - 9830e31eb5a366b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "4F120590-E7EA-4DE5-BF4C-56870731D18C - 9830e31eb5a36753"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78537659-5053-44A6-8FDE-1C99812FF114"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalStorage/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "read(onSucess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78537659-5053-44A6-8FDE-1C99812FF114 - f25a5775e00050b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; Swift.Array&lt;MyProject2.UserModel&gt;"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "78537659-5053-44A6-8FDE-1C99812FF114 - f25a5775e00050b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; Swift.Array&lt;MyProject2.UserModel&gt;"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "78537659-5053-44A6-8FDE-1C99812FF114 - 9830e31eb5a3626b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+               <Location
+                  uuid = "78537659-5053-44A6-8FDE-1C99812FF114 - 9830e31eb5a3620c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1E077CF-6423-4BAB-8D7B-DB4C3DC1F17A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalStorage/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "read(onSucess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1E077CF-6423-4BAB-8D7B-DB4C3DC1F17A - f25a5775e0005374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; Swift.Array&lt;MyProject2.UserModel&gt;"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "C1E077CF-6423-4BAB-8D7B-DB4C3DC1F17A - f25a5775e0005374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; Swift.Array&lt;MyProject2.UserModel&gt;"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1104">
+               </Location>
+               <Location
+                  uuid = "C1E077CF-6423-4BAB-8D7B-DB4C3DC1F17A - 9830e31eb5a361a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+               <Location
+                  uuid = "C1E077CF-6423-4BAB-8D7B-DB4C3DC1F17A - 9830e31eb5a3624a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.read(onSucess: (Swift.Array&lt;MyProject2.UserModel&gt;) -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4139D6DD-0D86-4B97-86C3-2DE1AD2DF2EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalStorage/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "update(id:name:salary:onSucess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "466AE68D-A8D4-4CD7-8343-8EFF949FB3A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalStorage/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "update(id:name:salary:onSucess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "466AE68D-A8D4-4CD7-8343-8EFF949FB3A5 - 21259a0311af76bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.update(id: Swift.Int, name: Swift.String, salary: Swift.Int, onSucess: () -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "466AE68D-A8D4-4CD7-8343-8EFF949FB3A5 - 21259a0311af76df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProject2.CoreDataService.update(id: Swift.Int, name: Swift.String, salary: Swift.Int, onSucess: () -&gt; (), onError: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MyProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gsitlicense/Desktop/MyProject2/LocalStorage/CoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE500946-D3D2-4885-9D46-8967947A864C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalStorage/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "update(id:name:salary:onSucess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "111A6276-CE27-4FDE-BF33-F54485C274E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalStorage/CoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "read(onSucess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
